@@ -1,0 +1,26 @@
+### Hi there 👋
+
+<!--
+**flavioagusto/flavioagusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+Este es el sitio web de mi portafolio ingenieria quimica. Aquí podrás encontrar información sobre mis proyectos, habilidades y experiencia en el campo de la ciencia e ingeniería.
+
+Sobre mí
+Me llamo Flavio Agusto Yajahuanca Huaman, soy ingeniero químico con experiencia en el diseño, implementación y supervisión de procesos químicos y de producción. Me apasiona la ciencia y la ingeniería, y estoy siempre en busca de nuevas formas de innovar y mejorar en mi campo.
+
+Novedades de ciencia e ingeniería
+Además de mi portafolio, en este sitio también publicaré regularmente novedades de la ciencia e ingeniería. Siempre estoy en busca de noticias y avances en mi campo, y me encanta compartirlos con los demás.
+
+Contacto
+Si estás interesado en trabajar conmigo o tienes alguna pregunta, por favor no dudes en contactarme a través de mi correo electrónico [inserta aquí tu correo electrónico].
+-->
